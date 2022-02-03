@@ -5,11 +5,11 @@ This is a very simple community plugin that I developed for complimenting Veraco
 
 ## Release Note
 ### Version [1.2.2](https://github.com/geraldtancl/veracode.plugin/blob/master/build/distributions/veracode.plugin-release-1.2.2.zip)
-Support Rider build 2021.3.2
-Updated gradle to 7.3.3
-Updated jgit to 6.0.0.202111291000-r
-Updated commons-io 2.11.0
-Updated junit to 4.13.2
+* Support Rider build 2021.3.2
+* Updated gradle to 7.3.3
+* Updated jgit to 6.0.0.202111291000-r
+* Updated commons-io 2.11.0
+* Updated junit to 4.13.2
 
 ### Version [1.2.1](https://github.com/geraldtancl/veracode.plugin/blob/master/build/distributions/veracode.plugin-release-1.2.1.zip)
 Support Rider build 2021.2.2
